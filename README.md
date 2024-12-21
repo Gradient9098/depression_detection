@@ -10,5 +10,5 @@ model class. ZT92899 also developed the initial code for counting the number of 
 CN66572 significantly restructured/generalized much of that code alongside developing the part of the notebook related to explaining the results 
 using LIME.
 
-PV07456 has intentionally not been involved in the development portion of the project which has just started to wrap up. 
-He will be contributing to the project through assisting with tweaking the model parameters and by leading the paper writing/powerpoint parts of the project. 
+PV07456 has intentionally not been involved in the development portion of the project. 
+He has contributed to the project through preliminary research and by leading the paper writing/powerpoint parts of the project. 
